@@ -1,0 +1,39 @@
+header{
+    color:rgb(247, 66, 66);
+    background-color: antiquewhite;
+    text-align: center;
+}
+#primer{
+    background-color: rgb(224, 160, 77);
+}
+
+.titulo {
+    color: crimson;
+    background-color: burlywood;
+   
+}
+footer{
+    text-align: center;
+    color: white;
+    background-color: brown;
+}
+.estilo{
+    font-style: italic ;
+    font-weight: 700;
+}
+
+h2{
+    color: cornflowerblue;
+    background-color: chartreuse;
+    font-style: oblique;
+    font-weight: 900;
+
+}
+.espectativa{
+    color: black;
+    
+
+}
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
